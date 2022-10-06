@@ -1,0 +1,55 @@
+1. TocEntry
+ Output:
+C:\Users\Marko\Documents\notepadpp>java TocEntryDriver
+Enter chapter title:
+Last Stage to Red Rock
+Enter starting page number:
+1
+
+Enter chapter title:
+Son of a Gun
+Enter starting page number:
+56
+
+Enter chapter title:
+Minnie's Haberdashery
+Enter starting page number:
+98
+
+Enter chapter title:
+Domergue's Got a Secret
+Enter starting page number:
+133
+
+Enter chapter title:
+The Four Passengers
+Enter starting page number:
+181
+
+Enter chapter title:
+Black Man, White Hell
+Enter starting page number:
+271
+
+Enter chapter title:
+****
+Last Stage to Red Rock............................1
+Son of a Gun......................................56
+Minnie's Haberdashery.............................98
+Domergue's Got a Secret...........................133
+The Four Passengers...............................181
+Black Man, White Hell.............................271
+
+_______________________________________________________
+2a. SphereDriver
+Output:
+C:\Users\Marko\Documents\notepadpp>java SphereDriver
+Sphere 1: Center: (1.0, 2.0, 3.0) Radius: 5.0
+Sphere 2: Center: (1.0, 2.0, 3.0) Radius: 5.0
+Sphere 1 is equal to Sphere 2
+Both objects don't reference the same sphere.
+
+2b. VSphereDriver
+Output:
+C:\Users\Marko\Documents\notepadpp>java VSphereDriver
+Volume: 523.5987755982989

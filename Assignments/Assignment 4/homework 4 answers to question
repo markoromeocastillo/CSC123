@@ -1,0 +1,7 @@
+2. Call-backs must return in a a short amount of time so that programs can run as smooth as possible without any delay or hiccups. If a callback does not return when needed and cause delay, it could cause program instability, disrupt normal event processing, etc.
+
+3.Event-driven model and framework processing is highly implemented in graphic user interfaces. It let's the code listen to the user via events such as mouse actions and keyboard actions. While adding extra functionalities like menus, scrollbars, etc.
+
+4. Event-Driven model can be used to react to any specific data you want it to react to. For example, monitoring value of stocks and buying/selling when it reaches a desired value. Another use would be turning off the air conditioner when a temperature reaches a certain temperature. For homework we used ActionEvent and ActionListener to set the boolean secondHandVisible accordingly.
+
+5.Binary search, also known as divide and conquer method, is a more efficient algorithm for searching through data.  O(Log N) is the time complexity of binary search. However, for binary search to work, the data must be already sorted. Linear search, like it's name has a time complexity of O(N). It starts from one end of a list and iterates to the end. 

@@ -1,0 +1,63 @@
+C:\Users\marko\Documents\notepadpp>java useEmployee
+Amanda's direct reports:
+
+ ID: 6120
+ Employee: Anthony, Susan B.
+ Age: 37
+ Salary: 360000.0
+ Title: MTS 3
+ Department: Engineers
+
+ ID: 8978
+ Employee: Rothschild, Tyron
+ Age: 23
+ Salary: 42000.0
+ Title: MTS 1
+ Department: Engineers
+
+ ID: 5950
+ Employee: Yates, Fred
+ Age: 37
+ Salary: 360000.0
+ Title: MTS 3
+ Department: Scientists
+
+
+--- All Employees ---
+
+
+ ID: 6120
+ Employee: Anthony, Susan B.
+ Age: 37
+ Salary: 360000.0
+ Title: MTS 3
+ Department: Engineers
+
+ ID: 1215
+ Employee: Deleon, Amanda
+ Age: 53
+ Salary: 225000.0
+ Title: Manager Level 3
+ Department: Research and Development
+
+ ID: 2
+ Employee: Rothschild, Baron
+ Age: 79
+ Salary: 500000.0
+ Title: Chairman
+ Department: Engineers
+ Bonus: 0.15
+
+ ID: 8978
+ Employee: Rothschild, Tyron
+ Age: 23
+ Salary: 67000.0
+ Title: MTS 1
+ Department: Engineers
+
+ ID: 5950
+ Employee: Yates, Fred
+ Age: 37
+ Salary: 360000.0
+ Title: MTS 3
+ Department: Scientists

@@ -1,0 +1,23 @@
+C:\Users\Marko\Documents\notepadpp>java type myStuff.txt
+James Gosling
+45
+256000.0
+Amanda
+19
+100000.0
+
+C:\Users\Marko\Documents\notepadpp>java type -u myStuff.txt
+JAMES GOSLING
+45
+256000.0
+AMANDA
+19
+100000.0
+
+C:\Users\Marko\Documents\notepadpp>java type -l myStuff.txt
+james gosling
+45
+256000.0
+amanda
+19
+100000.0
